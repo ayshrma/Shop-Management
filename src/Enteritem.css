@@ -1,0 +1,72 @@
+/* *{
+    color: orangered;
+    background-color: black;
+} */
+
+.inventoryHeading{
+  color: coral;
+  text-align: center;
+  margin-top: 4vh;
+  margin-bottom: 4vh;
+  font-size: x-large;
+  font-weight: 600;
+}
+
+.addProdctHeading
+{
+    text-align: center;
+    color: orangered;
+    margin-top: 4vh;
+    font-size: xx-large;
+    font-family:fantasy;
+}
+
+.firstInputDiv, .secondIputDiv, .thirdInputDiv, .fourthIputDiv{
+    margin: auto;
+    margin-top: 4vh;
+width: 30%;
+border: 3px solid green;
+border-radius: 8px;
+padding: 10px;
+}
+
+.enterItemButton{
+    margin: auto;
+    margin-top: 4vh;
+    border-radius: 8px;
+
+    margin-left: 80vh;
+    width: 30%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+/* .addedItemTable
+{
+
+        width: 100%;
+        border-collapse: collapse; 
+        border: ;
+} */
+
+.addedItemTable {
+    width: 100%;
+    border-collapse: collapse; /* Ensures borders between cells are merged */
+  }
+  
+  .addedItemTable table {
+    width: 100%;
+    border: 1px solid #ddd; /* Border around the entire table */
+  }
+  
+  .addedItemTable th, .addedItemTable td {
+    border: 1px solid #ddd; /* Border around table headers and cells */
+    padding: 8px; /* Space inside the cells */
+    text-align: left; /* Align text to the left */
+  }
+  
+  .addedItemTable th {
+    background-color: #f4f4f4; /* Background color for table headers */
+    margin-bottom: 8vh;
+  }
+  

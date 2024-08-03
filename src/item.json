@@ -1,0 +1,37 @@
+
+[
+{
+    "item": "Chai",
+     "price": 10,
+     "link": "https://mui.com/material-ui/react-list/"
+},
+{
+    "item": "Coffee",
+     "price": 40
+},
+{
+    "item": "waffle",
+     "price": 60,
+     "link": "https://mui.com/material-ui/react-list/"
+},
+{
+    "item": "sandwitch",
+     "price": 70
+},
+{
+    "item": "momos",
+     "price": 50
+},
+{
+    "item": "Dabeli",
+     "price": 50
+},
+{
+    "item": "Pasta red souce",
+     "price": 75
+},
+{
+    "item": "Pasta white souce",
+     "price": 90
+}
+]

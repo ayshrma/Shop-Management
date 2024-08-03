@@ -1,0 +1,7 @@
+Bill Generate
+Dark Mode
+Bill Records
+All Data of the items with their rates
+Bill by mail
+Bill by whatsapp
+Payment mode
